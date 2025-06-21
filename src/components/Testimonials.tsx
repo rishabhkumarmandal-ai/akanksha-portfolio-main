@@ -27,7 +27,7 @@ const Testimonials = () => {
     {
       name: 'Mrs. Raushni Chauhan',
       role: 'Chemistry Professor',
-      avatar: "/lovable-uploads/mom.jpeg",
+      avatar: "/lovable-uploads/mom.jpg",
       content: 'Eventhough having lot of responsibilities, she always balances time for family, profession and self development, she is always been a examplary figure for family',
       rating: 5
     }
