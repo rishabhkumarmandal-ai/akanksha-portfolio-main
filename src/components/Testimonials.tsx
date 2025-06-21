@@ -22,7 +22,7 @@ const Testimonials = () => {
       avatar: "/lovable-uploads/papa.jpeg",
       content: 'Her research methodology is exemplary, and her ability to communicate complex findings to diverse audiences is remarkable. A true thought leader.',
       rating: 5
-    }
+    },
 
     {
       name: 'Mrs. Raushni Chauhan',
