@@ -23,6 +23,14 @@ const Testimonials = () => {
       content: 'Her research methodology is exemplary, and her ability to communicate complex findings to diverse audiences is remarkable. A true thought leader.',
       rating: 5
     }
+
+    {
+      name: 'Mrs. Raushni Chauhan',
+      role: 'Chemistry Professor',
+      avatar: "/lovable-uploads/mom.jpeg",
+      content: 'Eventhough having lot of responsibilities, she always balances time for family, profession and self development, she is always been a examplary figure for family',
+      rating: 5
+    }
   ];
 
   useEffect(() => {
